@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "582004679442",
+    "firebase_url": "https://finalmovil.firebaseio.com",
+    "project_id": "finalmovil",
+    "storage_bucket": "finalmovil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582004679442:android:26e5d1825983fcb7",
+        "android_client_info": {
+          "package_name": "com.cristianrd.finalmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582004679442-8dfc43mffgrmqpg0k65obsf3khb34ooq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cristianrd.finalmovil",
+            "certificate_hash": "175ED9A4FABA0DA9D7E3AD5A94D89472677BBF24"
+          }
+        },
+        {
+          "client_id": "582004679442-ffjdb4o9e8au0u2lla1jda59ttn7ur8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLGBFldipNvqcpmGIcfoSc02zAPRP8no"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582004679442-ffjdb4o9e8au0u2lla1jda59ttn7ur8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
